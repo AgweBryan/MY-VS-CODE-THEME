@@ -3,6 +3,7 @@
 	"displayName": "Agwe black theme",
 	"description": "Cool vs code black theme",
 	"version": "0.0.1",
+	"publisher": "AgweBryan",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
@@ -14,6 +15,11 @@
 	"repository": {
 		"url": "https://github.com/AgweBryan/MY-VS-CODE-THEME"
 	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"Agwe dark"
+	],
 	"categories": [
 		"Themes"
 	],
